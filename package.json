@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-project-for-testing",
+  "version": "1.0.0",
+  "description": "for run test and learn",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "felipers",
+  "license": "ISC"
+}
